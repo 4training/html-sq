@@ -1,0 +1,182 @@
+{
+    "language_code": "sq",
+    "english_name": "Albanian",
+    "worksheets": [
+        {
+            "page": "God's_Story_(five_fingers)",
+            "title": "Historia e Per\u00ebndis\u00eb (pes\u00eb gishtat)",
+            "filename": "Historia_e_Per\u00ebndis\u00eb_(pes\u00eb_gishtat).html",
+            "version": "2.1"
+        },
+        {
+            "page": "God's_Story_(first_and_last_sacrifice)",
+            "title": "Historia e Per\u00ebndis\u00eb (sakrifica e par\u00eb dhe e fundit)",
+            "filename": "Historia_e_Per\u00ebndis\u00eb_(sakrifica_e_par\u00eb_dhe_e_fundit).html",
+            "version": "2.2"
+        },
+        {
+            "page": "Baptism",
+            "title": "Pag\u00ebzimi",
+            "filename": "Pag\u00ebzimi.html",
+            "version": "2.0",
+            "pdf": "1B_Pagezimi.pdf"
+        },
+        {
+            "page": "Prayer",
+            "title": "Lutja",
+            "filename": "Lutja.html",
+            "version": "1.1",
+            "pdf": "Lutja.pdf"
+        },
+        {
+            "page": "Forgiving_Step_by_Step",
+            "title": "Falja hap pas hapi",
+            "filename": "Falja_hap_pas_hapi.html",
+            "version": "1.3",
+            "pdf": "Falja_hap_pas_hapi.pdf"
+        },
+        {
+            "page": "Confessing_Sins_and_Repenting",
+            "title": "Rr\u00ebfimi i M\u00ebkateve dhe Pendesa",
+            "filename": "Rr\u00ebfimi_i_M\u00ebkateve_dhe_Pendesa.html",
+            "version": "1.1",
+            "pdf": "Rr\u00ebfimi_i_M\u00ebkateve_dhe_Pendesa.pdf"
+        },
+        {
+            "page": "Time_with_God",
+            "title": "Koh\u00eb me Per\u00ebndin\u00eb",
+            "filename": "Koh\u00eb_me_Per\u00ebndin\u00eb.html",
+            "version": "1.2",
+            "pdf": "Koh\u00eb_me_Per\u00ebndin\u00eb.pdf"
+        },
+        {
+            "page": "Hearing_from_God",
+            "title": "T\u00eb d\u00ebgjuarit nga Per\u00ebndia",
+            "filename": "T\u00eb_d\u00ebgjuarit_nga_Per\u00ebndia.html",
+            "version": "1.2",
+            "pdf": "T\u00eb_d\u00ebgjuarit_nga_Per\u00ebndia.pdf"
+        },
+        {
+            "page": "Church",
+            "title": "Kisha",
+            "filename": "Kisha.html",
+            "version": "2.0",
+            "pdf": "Kisha.pdf"
+        },
+        {
+            "page": "Healing",
+            "title": "Sh\u00ebrimi",
+            "filename": "Sh\u00ebrimi.html",
+            "version": "1.0",
+            "pdf": "Sh\u00ebrimi.pdf"
+        },
+        {
+            "page": "Dealing_with_Money",
+            "title": "Trajtimi i paras\u00eb",
+            "filename": "Trajtimi_i_paras\u00eb.html",
+            "version": "1.0",
+            "pdf": "Trajtimi_i_paras\u00eb.pdf"
+        },
+        {
+            "page": "My_Story_with_God",
+            "title": "Historia ime me Per\u00ebndin\u00eb",
+            "filename": "Historia_ime_me_Per\u00ebndin\u00eb.html",
+            "version": "1.1",
+            "pdf": "Historia_ime_me_Per\u00ebndin\u00eb.pdf"
+        },
+        {
+            "page": "Bible_Reading_Hints",
+            "title": "K\u00ebshilla p\u00ebr leximin e Bibl\u00ebs",
+            "filename": "K\u00ebshilla_p\u00ebr_leximin_e_Bibl\u00ebs.html",
+            "version": "2.0",
+            "pdf": "K\u00ebshilla_p\u00ebr_leximin_e_Bibl\u00ebs.pdf"
+        },
+        {
+            "page": "Bible_Reading_Hints_(Seven_Stories_full_of_Hope)",
+            "title": "K\u00ebshilla p\u00ebr leximin e Bibl\u00ebs (Shtat\u00eb histori plot shpres\u00eb)",
+            "filename": "K\u00ebshilla_p\u00ebr_leximin_e_Bibl\u00ebs_(Shtat\u00eb_histori_plot_shpres\u00eb).html",
+            "version": "2.0",
+            "pdf": "K\u00ebshilla_p\u00ebr_leximin_e_Bibl\u00ebs_(Shtat\u00eb_histori_plot_shpres\u00eb).pdf"
+        },
+        {
+            "page": "Bible_Reading_Hints_(Starting_with_the_Creation)",
+            "title": "K\u00ebshilla p\u00ebr leximin e Bibl\u00ebs (Duke filluar me Krijimin)",
+            "filename": "K\u00ebshilla_p\u00ebr_leximin_e_Bibl\u00ebs_(Duke_filluar_me_Krijimin).html",
+            "version": "2.0",
+            "pdf": "K\u00ebshilla_p\u00ebr_leximin_e_Bibl\u00ebs_(Duke_filluar_me_Krijimin).pdf"
+        },
+        {
+            "page": "The_Three-Thirds_Process",
+            "title": "Procesi i Tre t\u00eb Tretave",
+            "filename": "Procesi_i_Tre_t\u00eb_Tretave.html",
+            "version": "1.0"
+        },
+        {
+            "page": "Training_Meeting_Outline",
+            "title": "Struktura e Takimit Trajnues",
+            "filename": "Struktura_e_Takimit_Trajnues.html",
+            "version": "1.0",
+            "pdf": "Pikat_kryesore_t\u00eb_takimit_trajnues.pdf"
+        },
+        {
+            "page": "A_Daily_Prayer",
+            "title": "Nj\u00eb lutje e p\u00ebrditshme",
+            "filename": "Nj\u00eb_lutje_e_p\u00ebrditshme.html",
+            "version": "1.0",
+            "pdf": "Nje_lutje_e_perditshme.pdf"
+        },
+        {
+            "page": "Overcoming_Fear_and_Anger",
+            "title": "Mposhtja e Frik\u00ebs dhe Inatit",
+            "filename": "Mposhtja_e_Frik\u00ebs_dhe_Inatit.html",
+            "version": "1.0",
+            "pdf": "Mposhtja_e_Frik\u00ebs_dhe_Inatit.pdf"
+        },
+        {
+            "page": "Getting_Rid_of_Colored_Lenses",
+            "title": "T\u00eb \u00e7lirohesh nga Lentet e Ngjyruara",
+            "filename": "T\u00eb_\u00e7lirohesh_nga_Lentet_e_Ngjyruara.html",
+            "version": "1.0",
+            "pdf": "T\u00eb_\u00e7lirohesh_nga_Lentet_e_Ngjyruara.pdf"
+        },
+        {
+            "page": "Family_and_our_Relationship_with_God",
+            "title": "Familja dhe Marr\u00ebdh\u00ebnia jon\u00eb me Per\u00ebndin\u00eb",
+            "filename": "Familja_dhe_Marr\u00ebdh\u00ebnia_jon\u00eb_me_Per\u00ebndin\u00eb.html",
+            "version": "1.0",
+            "pdf": "Familja_dhe_Marr\u00ebdh\u00ebnia_jon\u00eb_me_Per\u00ebndin\u00eb.pdf"
+        },
+        {
+            "page": "Overcoming_Negative_Inheritance",
+            "title": "Mposhtja e di\u00e7kaje negative t\u00eb trash\u00ebguar",
+            "filename": "Mposhtja_e_di\u00e7kaje_negative_t\u00eb_trash\u00ebguar.html",
+            "version": "1.0"
+        },
+        {
+            "page": "Forgiving_Step_by_Step:_Training_Notes",
+            "title": "Falja Hap pas Hapi: Sh\u00ebnime Trajnimi",
+            "filename": "Falja_Hap_pas_Hapi_Sh\u00ebnime_Trajnimi.html",
+            "version": "1.0"
+        },
+        {
+            "page": "Leading_Others_Through_Forgiveness",
+            "title": "T\u00eb drejtosh t\u00eb tjer\u00ebt p\u00ebrgjat\u00eb Faljes",
+            "filename": "T\u00eb_drejtosh_t\u00eb_tjer\u00ebt_p\u00ebrgjat\u00eb_Faljes.html",
+            "version": "1.1"
+        },
+        {
+            "page": "The_Role_of_a_Helper_in_Prayer",
+            "title": "Roli i nj\u00eb Ndihm\u00ebsi n\u00eb Lutje",
+            "filename": "Roli_i_nj\u00eb_Ndihm\u00ebsi_n\u00eb_Lutje.html",
+            "version": "1.0",
+            "pdf": "Roli_i_nj\u00eb_Ndihm\u00ebsi_n\u00eb_Lutje.pdf"
+        },
+        {
+            "page": "Four_Kinds_of_Disciples",
+            "title": "Kat\u00ebr lloje Dishepujsh",
+            "filename": "Kat\u00ebr_lloje_Dishepujsh.html",
+            "version": "1.1",
+            "pdf": "Kat\u00ebr_lloje_Dishepujsh.pdf"
+        }
+    ]
+}
